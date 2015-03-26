@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PiPerVoice</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonSpeakText">Falar</string>
+    <string name="speech_message_not_supported">Seu aparelho não suporta reconhecimento de voz.</string>
+    <string name="speech_message">Diga algo!</string>
+    <string name="title_activity_nav_test">NavTest</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+</resources>

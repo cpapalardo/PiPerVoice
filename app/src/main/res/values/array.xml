@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menuItems">
+        <item>
+            Luzes</item>
+        <item>
+            Sensores</item>
+        <item>
+            Suporte</item>
+        <item>
+            Histórico</item>
+    </string-array>
+</resources>
